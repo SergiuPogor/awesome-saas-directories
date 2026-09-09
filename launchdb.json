@@ -1396,5 +1396,13 @@
     "domain_rating": 0,
     "submission_link": "https://startfa.st/submit",
     "dr_last_updated": "2026-09-09"
+  },
+  {
+    "id": 178,
+    "name": "Vantaige",
+    "description": "A curated directory and platform to discover, compare, and submit AI tools.",
+    "domain_rating": 15,
+    "submission_link": "https://vantaige.io/list-your-ai-tool",
+    "dr_last_updated": "2026-09-09"
   }
 ]
