@@ -207,6 +207,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 174 | **AI Tools Explorer** | A curated directory of AI tools and applications to discover, filter, and compare software across categories. | 35 | [Submit Here](https://aitoolsexplorer.com/submit-ai-tool/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 175 | **Bro Find AI** | A curated directory to discover and list AI tools, AI agents, and MCP servers. | 10 | [Submit Here](https://brofindai.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 176 | **r/ShowMeYourSaaS** | A Reddit community for founders building tech products to showcase SaaS projects, exchange knowledge, and grow together. | - | [Submit Here](https://www.reddit.com/r/ShowMeYourSaaS/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
+| 177 | **StartFast** | A curated directory for founders and makers to discover and submit AI tools, apps, and tech products. | 0 | [Submit Here](https://startfa.st/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
