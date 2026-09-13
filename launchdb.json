@@ -1412,5 +1412,13 @@
     "domain_rating": 75,
     "submission_link": "https://nicklaunches.com/submit",
     "dr_last_updated": "2026-09-13"
+  },
+  {
+    "id": 180,
+    "name": "PhotoToolFinder",
+    "description": "A curated directory of online photo editing tools and web-based image utilities.",
+    "domain_rating": 0,
+    "submission_link": "https://phototoolfinder.com/submit",
+    "dr_last_updated": "2026-09-13"
   }
 ]
