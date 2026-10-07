@@ -1420,5 +1420,13 @@
     "domain_rating": 0,
     "submission_link": "https://phototoolfinder.com/submit",
     "dr_last_updated": "2026-09-13"
+  },
+  {
+    "id": 181,
+    "name": "ToolWorthy",
+    "description": "An AI tool discovery directory where founders can submit AI software for editorial review, with profiles, alternatives, rankings, and guides.",
+    "domain_rating": 22,
+    "submission_link": "https://www.toolworthy.ai/submit",
+    "dr_last_updated": "2026-10-07"
   }
 ]
