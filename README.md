@@ -214,6 +214,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | - | **AZN8** | A free SaaS and startup directory built for browser and API submissions without CAPTCHA or badge requirements. | - | [Submit Here](https://azn8.com/submit) |
 | - | **CurlShip** | A free launch directory with instant API listing submission for indie makers and SaaS founders. | - | [Submit Here](https://curlship.com/) |
 | - | **DevElif** | A free website directory offering instant dofollow listings with no login required to publish. | - | [Submit Here](https://develif.com/add) |
+| 181 | **ToolWorthy** | An AI tool discovery directory where founders can submit AI software for editorial review, with profiles, alternatives, rankings, and guides. | 22 | [Submit Here](https://www.toolworthy.ai/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
