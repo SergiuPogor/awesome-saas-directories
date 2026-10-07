@@ -214,9 +214,6 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | - | **AZN8** | A free SaaS and startup directory built for browser and API submissions without CAPTCHA or badge requirements. | - | [Submit Here](https://azn8.com/submit) |
 | - | **CurlShip** | A free launch directory with instant API listing submission for indie makers and SaaS founders. | - | [Submit Here](https://curlship.com/) |
 | - | **DevElif** | A free website directory offering instant dofollow listings with no login required to publish. | - | [Submit Here](https://develif.com/add) |
-| - | **ToolIndex** | A free product directory with instant listing and claim-later workflow for SaaS tools. | - | [Submit Here](https://strategic-flow-audit.replit.app/directory) |
-| - | **LaunchFree (The Runway)** | A free curated launch queue where a human reviews SaaS submissions before featuring them. | - | [Submit Here](https://www.launchfree.io/) |
-| - | **Ignlab Launch** | A free launch submission form for indie products seeking early visibility. | - | [Submit Here](https://launch.ignlab.net/submit.html) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
