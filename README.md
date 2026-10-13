@@ -198,7 +198,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 165 | **AIWget** | A curated directory for discovering AI agents, workflow automation tools, and creative AI products. | 31 | [Submit Here](https://aiwget.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 166 | **craked.dev** | A directory and platform for discovering developer tools, open-source projects, and SaaS built by engineers. | 1 | [Submit Here](https://www.craked.dev/products?utm_source=launchdb.vercel.app&via=launchdb) |
 | 167 | **Sidebar** | A curated newsletter and directory sharing five design and tech links every weekday. | 70 | [Submit Here](https://sidebar.io/submit?utm_source=launchdb.vercel.app&via=launchdb) |
-| 168 | **Launchory** | A startup directory where founders submit a product for free and get an approved listing with a dofollow link, upvotes, and a public profile page. | 60 | [Submit Here](https://www.launchory.app/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 168 | **Launchory** | A startup directory where founders submit a product for free and get an approved listing with a dofollow link, upvotes, and a public profile page. | 54 | [Submit Here](https://www.launchory.app/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 169 | **CitedIndex** | A researched, quality-gated directory of AI-visibility & GEO tools. | 9 | [Submit Here](https://citedindex.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 170 | **AISO Tools** | A directory of 1,200+ AI tools with free listings, category browsing, and side-by-side comparison. | 20 | [Submit Here](https://aisotools.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 171 | **Alt Hunt** | A directory and comparison platform where founders publish software alternative pages to capture competitor search traffic. | 20 | [Submit Here](https://althunt.io/new?utm_source=launchdb.vercel.app&via=launchdb) |
@@ -217,6 +217,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 184 | **ToolWorthy** | An AI tool discovery directory where founders can submit AI software for editorial review, with profiles, alternatives, rankings, and guides. | 22 | [Submit Here](https://www.toolworthy.ai/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 185 | **SaaS Hive** | A SaaS launch and discovery platform built for AI search engines and human buyers, where founders publish verified product profiles. | 34 | [Submit Here](https://www.saashive.com/join-as-founder?utm_source=launchdb.vercel.app&via=launchdb) |
 | 186 | **MakerMap** | An interactive map and discovery directory showcasing SaaS, AI tools, and products built by indie makers and founders worldwide. | 37 | [Submit Here](https://www.makermap.lol/products?utm_source=launchdb.vercel.app&via=launchdb) |
+| 187 | **Postmake** | A curated directory of tools and resources for startups, founders, and developers. | 51 | [Submit Here](https://postmake.io/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
