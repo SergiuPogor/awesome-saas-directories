@@ -1476,5 +1476,13 @@
     "domain_rating": 51,
     "submission_link": "https://postmake.io/submit",
     "dr_last_updated": "2026-10-14"
+  },
+  {
+    "id": 188,
+    "name": "ShipGrowth",
+    "description": "A curated directory to discover and submit AI products and tools to boost visibility.",
+    "domain_rating": 51,
+    "submission_link": "https://shipgrowth.dev/submit",
+    "dr_last_updated": "2026-10-14"
   }
 ]

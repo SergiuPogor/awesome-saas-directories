@@ -218,6 +218,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 185 | **SaaS Hive** | A SaaS launch and discovery platform built for AI search engines and human buyers, where founders publish verified product profiles. | 34 | [Submit Here](https://www.saashive.com/join-as-founder?utm_source=launchdb.vercel.app&via=launchdb) |
 | 186 | **MakerMap** | An interactive map and discovery directory showcasing SaaS, AI tools, and products built by indie makers and founders worldwide. | 37 | [Submit Here](https://www.makermap.lol/products?utm_source=launchdb.vercel.app&via=launchdb) |
 | 187 | **Postmake** | A curated directory of tools and resources for startups, founders, and developers. | 51 | [Submit Here](https://postmake.io/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 188 | **ShipGrowth** | A curated directory to discover and submit AI products and tools to boost visibility. | 51 | [Submit Here](https://shipgrowth.dev/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
